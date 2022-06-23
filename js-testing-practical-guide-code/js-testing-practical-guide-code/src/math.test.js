@@ -7,4 +7,4 @@ it('should summarize all number values in an array', () => {
   expect(result).toBe(6);
 });
 
-// exercise 16
+// exercise 16 again
